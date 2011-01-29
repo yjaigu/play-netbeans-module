@@ -1,0 +1,13 @@
+WARNING:36:Missing required attribute(s) type 
+WARNING:1:Code has no side effects
+ERROR_NO_BADGE:16:il manque '}' après une liste de propriétés
+ERROR_NO_BADGE:17:erreur de syntaxe
+WARNING:18:Code has no side effects
+ERROR_NO_BADGE:18:il manque ';' avant une instruction
+WARNING:18:Code has no side effects
+ERROR_NO_BADGE:18:il manque ';' avant une instruction
+WARNING:20:Code has no side effects
+ERROR_NO_BADGE:20:il manque ';' avant une instruction
+WARNING:21:Code has no side effects
+ERROR_NO_BADGE:21:il manque ';' avant une instruction
+ERROR_NO_BADGE:22:erreur de syntaxe

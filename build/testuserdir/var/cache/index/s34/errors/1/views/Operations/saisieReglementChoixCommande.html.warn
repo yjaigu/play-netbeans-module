@@ -1,0 +1,6 @@
+WARNING:19:Unknown attribute bordercolor of tag <table>
+WARNING:56:Missing required attribute(s) type 
+WARNING:1:Code has no side effects
+ERROR_NO_BADGE:2:il manque ')' après une liste d'arguments
+WARNING:2:Code has no side effects
+ERROR_NO_BADGE:34:il manque '}' après le corps d'une fonction

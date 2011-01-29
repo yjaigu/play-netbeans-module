@@ -1,0 +1,4 @@
+WARNING:6:Unknown attribute bordercolor of tag <table>
+WARNING:51:Missing required attribute(s) type 
+WARNING:1:Code has no side effects
+WARNING:4:anonymous function does not always return a value

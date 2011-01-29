@@ -1,0 +1,3 @@
+ERROR_NO_BADGE:41:Unexpected tag <THEAD> found, expecting one of <TBODY>, <TFOOT>
+ERROR_NO_BADGE:52:The tag content is unresolved, expecting one of <TR>
+WARNING:59:Missing required attribute(s) type 

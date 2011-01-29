@@ -1,0 +1,4 @@
+ERROR_NO_BADGE:11:Unexpected tag <SPAN> found, expecting one of <LI>
+ERROR_NO_BADGE:13:Unexpected tag <A> found, expecting one of <LI>
+WARNING:1:Code has no side effects
+WARNING:5:Code has no side effects

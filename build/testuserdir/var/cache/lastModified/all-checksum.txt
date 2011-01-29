@@ -1,0 +1,16 @@
+/Applications/NetBeans/NetBeans 6.9.1.app/Contents/Resources/NetBeans/platform=1295705920000
+/Users/yann/NetBeansProjects/PlayTemplateCompletion/build/cluster=1296324401000
+/Applications/NetBeans/NetBeans 6.9.1.app/Contents/Resources/NetBeans/apisupport=1295705711000
+/Applications/NetBeans/NetBeans 6.9.1.app/Contents/Resources/NetBeans/enterprise=1295705914000
+/Applications/NetBeans/NetBeans 6.9.1.app/Contents/Resources/NetBeans/ergonomics=1295705915000
+/Applications/NetBeans/NetBeans 6.9.1.app/Contents/Resources/NetBeans/groovy=1295705711000
+/Applications/NetBeans/NetBeans 6.9.1.app/Contents/Resources/NetBeans/harness=1295705711000
+/Applications/NetBeans/NetBeans 6.9.1.app/Contents/Resources/NetBeans/ide=1296300979000
+/Applications/NetBeans/NetBeans 6.9.1.app/Contents/Resources/NetBeans/identity=1295705711000
+/Applications/NetBeans/NetBeans 6.9.1.app/Contents/Resources/NetBeans/java=1296069034000
+/Applications/NetBeans/NetBeans 6.9.1.app/Contents/Resources/NetBeans/nb=1295705711000
+/Applications/NetBeans/NetBeans 6.9.1.app/Contents/Resources/NetBeans/platform=1295705920000
+/Applications/NetBeans/NetBeans 6.9.1.app/Contents/Resources/NetBeans/profiler=1295705918000
+/Applications/NetBeans/NetBeans 6.9.1.app/Contents/Resources/NetBeans/websvccommon=1295705711000
+build/testuserdir=1296324401000
+crc=6202

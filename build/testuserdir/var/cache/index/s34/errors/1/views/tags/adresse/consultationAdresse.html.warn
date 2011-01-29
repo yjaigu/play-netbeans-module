@@ -1,0 +1,6 @@
+WARNING:33:Unknown attribute nowrap of tag <tr>
+WARNING:38:Unknown attribute nowrap of tag <tr>
+WARNING:43:Unknown attribute nowrap of tag <tr>
+WARNING:1:Code has no side effects
+ERROR_NO_BADGE:1:il manque ';' avant une instruction
+ERROR_NO_BADGE:2:il manque '}' après le corps d'une fonction

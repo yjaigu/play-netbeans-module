@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.play.netbeans.template.completion">
+    <module_version install_time="1296324401587" last="true" origin="installer" specification_version="1.0">
+        <file crc="683009756" name="config/Modules/org-play-netbeans-template-completion.xml"/>
+        <file crc="465697292" name="modules/org-play-netbeans-template-completion.jar"/>
+    </module_version>
+</module>

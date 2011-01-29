@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.play.netbeans.template.completion
+OpenIDE-Module-Layer: org/play/netbeans/template/completion/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/play/netbeans/template/completion/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

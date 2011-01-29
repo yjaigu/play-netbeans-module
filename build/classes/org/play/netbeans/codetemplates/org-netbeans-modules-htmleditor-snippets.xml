@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE codetemplates PUBLIC "-//NetBeans//DTD Editor Code Templates settings 1.0//EN" "http://www.netbeans.org/dtds/EditorCodeTemplates-1_0.dtd">
+<codetemplates>
+    <codetemplate abbreviation="#if" xml:space="preserve">
+        <code><![CDATA[#{if ${IDX condition default="condition"}}
+    ${cursor}
+#{/if}]]></code>
+        <description><![CDATA[Code template for inserting a Play! "if" statement.]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="_i" xml:space="preserve">
+        <code><![CDATA[_index]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="_l" xml:space="preserve">
+        <code><![CDATA[_isLast]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="#els" xml:space="preserve">
+        <code><![CDATA[#{else}
+    ${cursor}
+#{/else}]]></code>
+        <description><![CDATA[Code template for inserting a Play! "else" statement.]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="$" xml:space="preserve">
+        <code><![CDATA[$${${cursor}}]]></code>
+        <description><![CDATA[Code template for inserting a Play! Groovy statement.]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="a" xml:space="preserve">
+        <code><![CDATA[@{${cursor}}]]></code>
+        <description><![CDATA[Code template for inserting a Play! action URL statement.]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="#com" xml:space="preserve">
+        <code><![CDATA[*{
+    ${selection}
+}*
+]]></code>
+        <description><![CDATA[Code template for inserting a Play! comment statement.]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="#list" xml:space="preserve">
+        <code><![CDATA[#{list items:${items items default="items"}, as:'${item item default="item"}'}
+    ${cursor}
+#{/list}]]></code>
+        <description><![CDATA[Code template for inserting a Play! "list" statement.]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="_f" xml:space="preserve">
+        <code><![CDATA[_isFirst]]></code>
+    </codetemplate>
+</codetemplates>
