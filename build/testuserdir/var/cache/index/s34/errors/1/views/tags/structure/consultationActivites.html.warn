@@ -1,3 +1,0 @@
-WARNING:1:Missing required attribute(s) type 
-ERROR_NO_BADGE:27:Unexpected tag <LI> found, expecting one of <MAP>, <U>, <H6>, <P>, <BR>, <CENTER>, <STRONG>, <SCRIPT>, <BLOCKQUOTE>, <SUP>, <H1>, <FIELDSET>, <NOSCRIPT>, <BASEFONT>, <DIR>, <SAMP>, <TT>, <APPLET>, <HR>, <UL>, <OL>, <FONT>, <ISINDEX>, <STRIKE>, <INPUT>, <DFN>, <EM>, <VAR>, <ABBR>, <CODE>, <NOFRAMES>, <A>, <BUTTON>, <KBD>, <OBJECT>, <TEXTAREA>, <ACRONYM>, <Q>, <S>, <BDO>, <SUB>, <H4>, <BIG>, <MENU>, <SMALL>, <ADDRESS>, <I>, <B>, <IFRAME>, <FORM>, <H2>, <IMG>, <LABEL>, <SPAN>, <SELECT>, <DL>, <TABLE>, <H5>, <H3>, <DIV>, <PRE>, <CITE>
-WARNING:7:Code has no side effects

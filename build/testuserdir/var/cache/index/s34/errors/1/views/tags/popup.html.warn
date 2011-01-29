@@ -1,7 +1,0 @@
-WARNING:30:Missing required attribute(s) type 
-WARNING:1:Code has no side effects
-ERROR_NO_BADGE:2:il manque ';' avant une instruction
-WARNING:2:Code has no side effects
-ERROR_NO_BADGE:2:il manque ';' avant une instruction
-ERROR_NO_BADGE:6:il manque '}' après le corps d'une fonction
-ERROR_NO_BADGE:6:il manque '}' après le corps d'une fonction

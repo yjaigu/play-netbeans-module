@@ -1,6 +1,0 @@
-ERROR_NO_BADGE:25:Unexpected tag <ul> found, expecting one of <tt>, <em>, <i>, <big>, <button>, <abbr>, <cite>, <select>, <a>, <strong>, <bdo>, <del>, <var>, <label>, <map>, <b>, <br>, <textarea>, <acronym>, <samp>, <code>, <img>, <sup>, <script>, <object>, <input>, <kbd>, <sub>, <q>, <span>, <ins>, <small>, <dfn>
-WARNING:1:l'utilisation du futur mot-clé réservé public n'est pas autorisée et celui-ci sera interprété comme un identifiant ordinaire
-ERROR_NO_BADGE:1:il manque ')' après une liste d'arguments
-WARNING:3:l'utilisation du futur mot-clé réservé public n'est pas autorisée et celui-ci sera interprété comme un identifiant ordinaire
-ERROR_NO_BADGE:3:il manque ')' après une liste d'arguments
-WARNING:3:Code has no side effects

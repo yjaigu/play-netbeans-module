@@ -1,5 +1,0 @@
-WARNING:20:Unknown attribute name of tag <span>
-WARNING:23:Missing required attribute(s) action 
-ERROR_NO_BADGE:50:The tag content is unresolved, expecting one of <TR>
-WARNING:57:Missing required attribute(s) type 
-WARNING:1:Code has no side effects
